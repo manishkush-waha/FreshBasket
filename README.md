@@ -23,7 +23,7 @@ Follow these steps to clone the repository:
     ```
 4. Navigate into the cloned repository:
     ```sh
-    cd fresh-basket
+    cd Fresh-Basket
     ```
 
 5. Install the necessary dependencies:

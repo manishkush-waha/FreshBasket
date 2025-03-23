@@ -26,34 +26,14 @@ Follow these steps to clone the repository:
     cd fresh-basket
     ```
 
-## Setting Up the Project
-Follow these steps to set up the project:
-
-1. Install the necessary dependencies:
+5. Install the necessary dependencies:
     ```sh
     npm install
     ```
-    or
+    
+6. Start Both Frontend and Backend server:
     ```sh
-    yarn install
-    ```
-
-2. Run any necessary database migrations (if applicable):
-    ```sh
-    npm run migrate
-    ```
-    or
-    ```sh
-    yarn migrate
-    ```
-
-3. Start the development server:
-    ```sh
-    npm start
-    ```
-    or
-    ```sh
-    yarn start
+    npm run dev
     ```
 
 ## Additional Information
